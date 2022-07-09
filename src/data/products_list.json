@@ -1,0 +1,148 @@
+[
+    {
+        "name": "EUROLINE 810 POP UP 700 W Pop Up Toaster  (White)",
+        "productId": "EURO19938201",
+        "brandName": "EUROLINE",
+        "category": "Pop Up Toasters",
+        "companyAssured": false,
+        "rating": 4.2,
+        "price": "12232",
+        "discount": "50%",
+        "imageURL": "https://rukminim1.flixcart.com/image/416/416/k5lcvbk0/pop-up-toaster/2/j/w/euroline-820-pop-up-810-pop-up-original-imafz8h3duveqgh7.jpeg?q=70",
+        "sellerName": "telform inc.",
+        "isNewProduct": true
+    },
+    {
+        "name": "Morphy Richards 25 L Convection Microwave Oven  (MWO 25CG, Steel)",
+        "productId": "EURO19938202",
+        "brandName": "Morphy",
+        "category": "Microwave Ovens",
+        "companyAssured": true,
+        "rating": 3.9,
+        "price": "10999",
+        "discount": "11%",
+        "imageURL": "https://rukminim1.flixcart.com/image/416/416/microwave-new/v/q/y/morphy-richard-25cg-original-imaec2ddymudmze3.jpeg?q=70",
+        "sellerName": "Kwitch Retails",
+        "isNewProduct": false
+    },
+    {
+        "name": "Fitbit Inspire 2  (Desert Rose Strap, Size : Regular)",
+        "productId": "EURO19938203",
+        "brandName": "Fitbit",
+        "category": "Smart Bands",
+        "companyAssured": true,
+        "rating": 3.9,
+        "price": "17992",
+        "discount": "5%",
+        "imageURL": "https://rukminim1.flixcart.com/image/416/416/khmbafk0/smart-band-tag/u/z/6/no-yes-fb418bkcr-android-ios-fitbit-yes-original-imafxhe4ff7ys5bc.jpeg?q=70",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Apple MacBook Air 2020",
+        "productId": "EURO19937899",
+        "brandName": "Apple",
+        "category": "MacBook",
+        "companyAssured": true,
+        "rating": 4,
+        "price": "54992",
+        "discount": "10%",
+        "imageURL": "https://i.gadgets360cdn.com/products/large/apple-macbook-air-2020-1200x800-1584538231.jpg",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Apple Watch Series 7 GPS",
+        "productId": "EURO19344365",
+        "brandName": "Apple",
+        "category": "Smart Watches",
+        "companyAssured": true,
+        "rating": 3.5,
+        "price": "26992",
+        "discount": "15%",
+        "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/45-nc-alum-blue-sport-abyss-blue-s7?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1635438137000",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Apple IPhone 13",
+        "productId": "EURO19344805",
+        "brandName": "Apple",
+        "category": "Mobile",
+        "companyAssured": true,
+        "rating": 4,
+        "price": "31342",
+        "discount": "10%",
+        "imageURL": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Samsung Galaxy A53 5G",
+        "productId": "EURO19378905",
+        "brandName": "Samsung",
+        "category": "Mobile",
+        "companyAssured": true,
+        "rating": 3,
+        "price": "33242",
+        "discount": "4%",
+        "imageURL": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/03/Galaxy-A-Unpacked_press-release_main3.jpg",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+
+    {
+        "name": "Samsung UHD Tv Nu1500",
+        "productId": "EURO19346505",
+        "brandName": "Samsung",
+        "category": "TV",
+        "companyAssured": true,
+        "rating": 4.3,
+        "price": "61342",
+        "discount": "7%",
+        "imageURL": "https://i.gadgets360cdn.com/products/large/1552391185_635_Samsung_in_uhdtv_nu5100_ua50nu6100kxxl.jpg",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+
+    {
+        "name": "Redmi Note 11",
+        "productId": "EURO193436805",
+        "brandName": "Redmi",
+        "category": "Mobile",
+        "companyAssured": true,
+        "rating": 3,
+        "price": "17342",
+        "discount": "10%",
+        "imageURL": "https://www.91-cdn.com/hub/wp-content/uploads/2022/03/Redmi-Note-11E.jpg?tr=q-100",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+
+    {
+        "name": "Apple Ipad Mini 6",
+        "productId": "EURO19343405",
+        "brandName": "Apple",
+        "category": "IPad",
+        "companyAssured": true,
+        "rating": 3.6,
+        "price": "37342",
+        "discount": "12%",
+        "imageURL": "https://images.indianexpress.com/2021/10/Apple_iPadmini_LEAD_1.jpg",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Apple Mac MIni",
+        "productId": "EURO193445635",
+        "brandName": "Apple",
+        "category": "Mini Desktop",
+        "companyAssured": true,
+        "rating": 4.1,
+        "price": "78342",
+        "discount": "3%",
+        "imageURL": "https://www.macworld.com/wp-content/uploads/2021/09/m1-mac-mini-angle-100867263-orig.jpg?quality=50&strip=all&w=1024",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+    }
+]
