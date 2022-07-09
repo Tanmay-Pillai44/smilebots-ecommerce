@@ -35,7 +35,7 @@ const ProductPage = () => {
     return (
         <div className="popup-wrapper">
             <div className="popup-inner">
-                <img src={product.imageURL} alt="product-img" />
+                <img src={product.imageURL} alt="product-img" height="300px" width="400px" />
                 <div className="details-box">
                     <div className="product-name">{product.name}</div>
                     <div className="product-brand">{product.brandName}</div>
